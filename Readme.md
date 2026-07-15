@@ -285,4 +285,4 @@ Generates explainability reports and visualizations.
 
 **Sudhansh Goyal**
 
-MeetingIQ was developed as a research-oriented meeting understanding system combining speech processing, natural language processing, topic segmentation, explainable AI, and conversational task extraction.
+MeetingIQ was developed as a research-oriented meeting understanding system combining speech processing, natural language processing, topic segmentation, explainable Artificial Intelligence, and conversational task extraction.
